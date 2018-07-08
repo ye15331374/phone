@@ -10,9 +10,7 @@ import com.journeyapps.barcodescanner.BarcodeEncoder;
 
 import java.io.UnsupportedEncodingException;
 
-/**
- * Created by yinh2 on 2018/1/8.
- */
+
 
 public class QRcode {
     public static Bitmap encodeAsBitmap(String str){
